@@ -1,23 +1,20 @@
 import { NavLink } from "react-router";
 import "./Header.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faLungs } from "@fortawesome/free-solid-svg-icons";
+import { faMountainSun } from "@fortawesome/free-solid-svg-icons";
 
 const Header = () => {
   return (
     <header>
       <div className="logo" >
-        <FontAwesomeIcon icon={faLungs} /> Respira3D
+        <FontAwesomeIcon icon={faMountainSun} /> Traveluv
       </div>
       <nav className="content-nav">
       <NavLink to="/" className="nav-item">
           Inicio
         </NavLink>
-        <NavLink to="/enfermedades" className="nav-item">
-          Enfermedades
-        </NavLink>
-        <NavLink to="/quiz" className="nav-item">
-          Quiz interactivo
+        <NavLink to="/como-funciona" className="nav-item">
+          ¿Como Funciona?
         </NavLink>
         <NavLink to="/acerca-de-nosotros" className="nav-item">
           Acerca de nosotros

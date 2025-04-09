@@ -2,7 +2,7 @@ import { useCallback, useState } from 'react';
 import './Login.css';
 import { useNavigate } from "react-router";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faLungs } from "@fortawesome/free-solid-svg-icons";
+import { faMountainSun } from "@fortawesome/free-solid-svg-icons";
 import useAuthStore from '../../stores/use-auth-store';
 
 const Login = () => {
@@ -25,14 +25,14 @@ const Login = () => {
   };
 
         <div className="logo">
-          <FontAwesomeIcon icon={faLungs} /> Respira3D.
+          <FontAwesomeIcon icon={faMountainSun} /> Respira3D.
         </div>
 
   return (
     <div className="login-container">
       <div className="login-panel">
         <div className="logo">
-          <FontAwesomeIcon icon={faLungs} /> Respira3D
+          <FontAwesomeIcon icon={faMountainSun} /> Traveluv
         </div>
         <h2 style={{fontSize: 25}}>Iniciar sesión</h2>
         <form onSubmit={handleSubmit}>

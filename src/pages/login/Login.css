@@ -1,6 +1,7 @@
 .login-container {
     display: flex;
-    justify-content: center;
+    margin-left: 5rem;
+    justify-content: left;
     align-items: center;
     min-height: 100vh;
     background-color: #f0f0f0; /* Color de fondo similar a la imagen */

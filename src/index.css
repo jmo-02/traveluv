@@ -2,10 +2,10 @@
 
 :root {
   --gray: rgba(0, 0, 0, 0.700);
-  --green: #16a085;
+  --green: #0FB2F2;
   --black: #444;
   --light-color: #777;
-  --box-shadow: 0.5rem 0.5rem 0 rgba(22, 160, 132, 0.367);
+  --box-shadow: 0.5rem 0.5rem 0 rgba(29, 176, 202, 0.541);
   --text-shadow: 0.4rem 0.4rem 0 rgba(0, 0, 0, 0.2);
   --border: 0.2rem solid var(--green);
   --border-radius: 1.125rem
