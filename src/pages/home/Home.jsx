@@ -1,6 +1,6 @@
 import "./Home.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faChevronRight } from "@fortawesome/free-solid-svg-icons";
+import { faLocationDot } from "@fortawesome/free-solid-svg-icons";
 
 
 const Home = () => {
@@ -13,20 +13,16 @@ const Home = () => {
         </div>
         <div className="content">
           <h3>
-            Respira Salud: Descubre las Enfermedades Pulmonares y Cómo Prevenirlas
-          </h3>
+            Comparti tu Viaje Optimiza tu Mundo
+            </h3>
           <p>
-            Bienvenido a nuestra plataforma interactiva sobre salud pulmonar. Aquí
-            podrás explorar en 3D el impacto de diversas enfermedades en los
-            pulmones, conocer sus síntomas, tratamientos y medidas de prevención.
-            Sumérgete en una experiencia educativa innovadora y aprende a proteger
-            tu salud respiratoria de manera visual y dinámica.
+          conecta conductores, pasajeros y remitentes de carga para un transporte más eficiente, ecológico y económico.
           </p>
   
           <a href="/" className="btn">
-            Explora Tus Pulmones en 3D
+            Viaja con Nosotros
             <span className="icon">
-              <FontAwesomeIcon icon={faChevronRight} />
+              <FontAwesomeIcon icon={faLocationDot} />
             </span>
           </a>
         </div>

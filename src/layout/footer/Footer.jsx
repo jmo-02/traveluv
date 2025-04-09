@@ -6,16 +6,16 @@ const Footer = () => {
     <footer className = "footer"> 
       <ul > 
         <li> 
-          <Link to="/pulmon/bronquitis" >Bronquitis</Link>
+          <Link to="/viaja/comunidad" >Comunidad</Link>
         </li>
         <li >
-          <Link to="/pulmon/neumonia" >Neumonia</Link>
+          <Link to="/viaja/seguridad">Seguridad</Link>
         </li>
         <li >
-          <Link to="/pulmon/fibrosis-pulmonar" >Fibrosis Pulmonar</Link>
+          <Link to="/viaja/soporte" >Soporte</Link>
         </li>
         <li >
-          <Link to="/pulmon/asma" >Asma</Link>
+          <Link to="/viaja/logistica" >Logistica</Link>
         </li>
       </ul>
     </footer>
