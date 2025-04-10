@@ -6,16 +6,16 @@ const Footer = () => {
     <footer className = "footer"> 
       <ul > 
         <li> 
-          <Link to="/viaja/comunidad" >Comunidad</Link>
+          <Link to="/viaja/comunidad" ></Link>
         </li>
         <li >
-          <Link to="/viaja/seguridad">Seguridad</Link>
+          <Link to="/viaja/seguridad">Copyright@2025</Link>
         </li>
         <li >
-          <Link to="/viaja/soporte" >Soporte</Link>
+          <Link to="/viaja/soporte" ></Link>
         </li>
         <li >
-          <Link to="/viaja/logistica" >Logistica</Link>
+          <Link to="/viaja/logistica" ></Link>
         </li>
       </ul>
     </footer>

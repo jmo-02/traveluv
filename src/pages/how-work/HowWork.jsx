@@ -4,50 +4,21 @@ const HowWork = () => {
   return (
         <section className="diseases" id="diseases">
         <div className="image">
-          <img src="/images/pulmon.svg" alt="Animación" />
+          <img src="/images/carrito.svg" alt="Animación" />
         </div>
 
         <div className="content">
         <h3>
-            Enfermedades Pulmonares
+            ¿ Como funciona ?
           </h3>
           <p>
-            Las enfermedades pulmonares son afecciones que 
-            afectan el funcionamiento de los pulmones. 
-            Pueden ser agudas o crónicas.
+          Nuestra plataforma conecta a conductores, pasajeros y remitentes de carga en una red de movilidad compartida. 
+          Los conductores publican viajes con rutas y horarios, mientras que los pasajeros y remitentes buscan opciones según su destino o necesidades de transporte. 
+          Con un sistema de reservas seguras, pagos integrados y seguimiento en tiempo real, ofrecemos una experiencia confiable, eficiente y accesible para optimizar cada trayecto.
           <br/>
         <div className= "text1">
-            <h1>
-                Enfermedades pulmonares crónicas
-            </h1>
-                    -Asma
-                <br/>
-                    -Bronquitis
-                <br/>
-                    -Enfermedad pulmonar obstructiva cronica(EPOC)
-                <br/>
-                    -Sarcoidosis
-                <br/>
-                    -Hipertension pulmonar
-                <br/>
-                    -Sindrome apnea del sueño
-                <br/>
         </div>
         <div className ="text2">
-            <h1>
-                Enfermedades pulmonares agudas
-            </h1>
-                    -Neumonia
-                <br/>
-                    -Gripe
-                <br/>
-                    -Faringitis
-                <br/>
-                    -Amigdalitis
-                <br/>
-                    -Laringitis
-                <br/>
-                    -Traqueitis
             </div>
           </p>
         </div>

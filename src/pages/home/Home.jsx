@@ -13,10 +13,14 @@ const Home = () => {
         </div>
         <div className="content">
           <h3>
-            Comparti tu Viaje Optimiza tu Mundo
+            Traveluv
+          </h3>
+          <h3>
+            Movilidad Inteligente, Compartida y Segura
             </h3>
           <p>
-          conecta conductores, pasajeros y remitentes de carga para un transporte más eficiente, ecológico y económico.
+          Descubre una nueva forma de viajar y transportar carga con nuestra plataforma digital. 
+          Conectamos a conductores, pasajeros y remitentes en una red social de movilidad eficiente, sostenible y accesible.
           </p>
   
           <a href="/" className="btn">

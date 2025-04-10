@@ -11,21 +11,14 @@ const AboutUs = () => {
                     Acerca de Nosotros
                 </h3>
                 <p>
-                    En Respira3D, nos apasiona brindar información confiable y actualizada sobre la salud 
-                    pulmonar. Nuestra misión es educar y concienciar a las personas sobre la importancia de 
-                    cuidar sus pulmones, promoviendo hábitos saludables y proporcionando recursos 
-                    basados en evidencia científica.
+                Somos una plataforma innovadora diseñada para optimizar el transporte particular a través de una red social que conecta a conductores, pasajeros y remitentes de carga.
+                Nuestra misión es hacer que la movilidad sea más eficiente, accesible y sostenible, reduciendo costos y maximizando el uso de los vehículos.
                     <br/>
-                    A través de artículos, guías y noticias, buscamos ser una fuente confiable para quienes desean mejorar su calidad de vida y la de sus seres queridos. Creemos que el conocimiento es la mejor herramienta para la prevención y el bienestar.
-                </p>
-                <h3>
-                    Servicios de Ayuda y Atencion
-                </h3>
-                <p className="custom-list">
-                    <li>Información detallada sobre enfermedades respiratorias y su prevención.</li>
-                    <li>Recursos educativos para pacientes y profesionales de la salud.</li>
-                    <li>Comunidad de apoyo para compartir experiencias y resolver dudas.</li>
-                    <li>Noticias y actualizaciones sobre avances en el campo de la neumología.</li>
+                    <br/>
+                    Utilizando un sistema intuitivo de publicación de viajes y carga, búsqueda avanzada, reservas seguras y pagos integrados, garantizamos una experiencia confiable para toda nuestra comunidad. Además, priorizamos la seguridad mediante la verificación de identidad y el seguimiento en tiempo real.
+                    <br/>
+                    <br/>
+                    Creemos en un modelo de transporte colaborativo y ecológico que transforme la manera en que nos movemos y enviamos carga en el día a día. ¡Únete a nosotros y sé parte de esta revolución en la movilidad compartida! 
                 </p>
             </div>
         </section>
